@@ -43,40 +43,6 @@ Each protocol is implemented with low communication overhead and designed for sc
 - **Linear scalability** up to 200+ nodes
 
 
-## 🛠️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/MohsinRasheed9112/FlexShard_Repo.git
-cd FlexShard_Repo
-✅ Prerequisites
-Python 3.7.0 or higher
-
-Linux/Unix environment (tested on Red Hat Enterprise Linux 8)
-
-MPI implementation (MPICH2 recommended)
-
-At least 4GB RAM per node
-
-Network connectivity between nodes
-
-📦 Dependencies
-Install the required Python packages:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-📬 Support
-For questions, contributions, or discussions:
-
-Email: mrasheed@augusta.edu
-
-GitHub: https://github.com/MohsinRasheed9112/FlexShard_Repo
-
-
-
 ## Installation
 
 ```bash
