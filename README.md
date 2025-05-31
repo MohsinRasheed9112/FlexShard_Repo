@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-#[![Paper](https://img.shields.io/badge/paper-PVLDB%202026-red.svg)](link-to-paper)
 
 ## Overview
 
@@ -50,7 +49,7 @@ git clone https://github.com/MohsinRasheed9112/FlexShard_Repo.git
 cd FlexShard_Repo
 pip install -r requirements.txt
 
-### Prerequisites
+## Prerequisites
 
 - Python 3.7.0 or higher
 - Linux/Unix environment (tested on Red Hat Enterprise Linux 8)
@@ -58,9 +57,16 @@ pip install -r requirements.txt
 - At least 4GB RAM per node
 - Network connectivity between nodes
 
-### Dependencies
+## Dependencies
 
 Install required packages:
 
 ```bash
 pip install -r requirements.txt
+
+## Support
+
+For questions, contributions, or discussions:
+
+- Email: [mrasheed@augusta.edu](mailto:mrasheed@augusta.edu)
+- GitHub: https://github.com/MohsinRasheed9112/FlexShard_Repo
