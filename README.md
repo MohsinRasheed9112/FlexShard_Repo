@@ -42,13 +42,13 @@ Each protocol is implemented with low communication overhead and designed for sc
 - **22.5% lower memory usage** compared to non-sharded approaches
 - **Linear scalability** up to 200+ nodes
 
-
 ## Installation
 
 ```bash
 git clone https://github.com/MohsinRasheed9112/FlexShard_Repo.git
 cd FlexShard_Repo
 pip install -r requirements.txt
+```
 
 ## Prerequisites
 
@@ -64,6 +64,7 @@ Install required packages:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Support
 
