@@ -1,4 +1,4 @@
-# FlexShard: A High-Performance Blockchain Sharding Framework for Reliable Vector Data Management at the Edge
+# FlexShard: A High-Performance Blockchain Sharding Framework for Reliable Vector Data Management in Edge Computing
 
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
