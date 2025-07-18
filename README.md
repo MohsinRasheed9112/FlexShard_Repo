@@ -66,9 +66,3 @@ Install required packages:
 pip install -r requirements.txt
 ```
 
-## Support
-
-For questions, contributions, or discussions:
-
-- Email: [mrasheed@augusta.edu](mailto:mrasheed@augusta.edu)
-- GitHub: https://github.com/MohsinRasheed9112/FlexShard_Repo
